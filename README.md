@@ -30,3 +30,5 @@ If you use Behaviour Distillation, please cite the following paper:
     url={https://openreview.net/forum?id=qup9xD8mW4}
 }
 ```
+
+Behaviour Distillation is licensed under the Apache 2.0 license.
